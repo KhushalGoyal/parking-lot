@@ -1,3 +1,0 @@
-[console_scripts]
-parking@lot = parkinglot.test2:main
-
