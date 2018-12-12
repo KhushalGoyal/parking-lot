@@ -11,14 +11,14 @@ setup(name='Parking@lot',
       classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python :: 2.7',
-        'Topic :: Text Processing :: Linguistic',
+        'Programming Language :: Python :: 3.7',
+        'Topic :: Command Line :: Application',
       ],
       keywords='Parking lot',
       url="https://gist.github.com/KhushalGoyal/66619cfe0df47ed3a76771fc50f6a752",
       author='khushalGoyal',
       author_email='khushal.goyal16@gmail.com',
-      license='MIT',
+      license='-',
       packages=['parkinglot'],
       install_requires=[
           'markdown','pandas'
